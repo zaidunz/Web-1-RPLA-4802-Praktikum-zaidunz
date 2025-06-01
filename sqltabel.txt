@@ -1,0 +1,23 @@
+CREATE TABLE users (
+    id_user INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    fullname VARCHAR(100),
+    photo VARCHAR(255) DEFAULT 'default.png'
+);
+
+CREATE TABLE posts (
+    id_post INT AUTO_INCREMENT PRIMARY KEY,
+    id_user INT,
+    post TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (id_user) REFERENCES users(id_user)
+);
+
+CREATE TABLE likes (
+    id_like INT AUTO_INCREMENT PRIMARY KEY,
+    id_user INT,
+    id_post INT,
+    FOREIGN KEY (id_user) REFERENCES users(id_user),
+    FOREIGN KEY (id_post) REFERENCES posts(id_post)
+);

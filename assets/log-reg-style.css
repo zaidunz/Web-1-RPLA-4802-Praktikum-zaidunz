@@ -1,0 +1,56 @@
+body {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    font-family: Arial, sans-serif; /* Jenis font */
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.logo {
+    margin-bottom: 30px;
+}
+
+.logo img {
+    width: 150px; /* Ukuran logo */
+    height: auto; /* Tinggi otomatis agar proporsi gambar tidak terdistorsi */
+    border-radius: 50%; /* Membuat gambar bulat */
+    border: 2px solid #e9ecef;
+    padding: 5px; /* Ruang di sekitar gambar */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff; /* Warna tombol untuk tindakan utama */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff; /* Warna teks tombol */
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Warna tombol saat digulir */
+}
+
+.text-muted {
+    color: #6c757d; /* Warna teks sekunder */
+}
+
+.error-msg {
+    color: #dc3545; /* Warna teks untuk pesan kesalahan */
+    margin-top: 10px;
+}
