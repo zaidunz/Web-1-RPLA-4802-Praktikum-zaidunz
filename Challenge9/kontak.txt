@@ -1,0 +1,72 @@
+name: zidan
+email:zid4nsyhid@gmail.com
+alamat: Bandung
+produk: produk
+jumlah: -1
+
+name: zidan
+email:zid4nsyhid@gmail
+alamat: Bandung
+produk: produk
+jumlah: 1
+
+name: zidan
+email:zid4nsyhid@gmail
+alamat: Bandung
+produk: produk
+jumlah: 1
+
+name: zidan
+email:zid4nsyhid@gmail
+alamat: Bandung
+produk: produk
+jumlah: 1
+
+name: zidan
+email:zid4nsyhid@gmail
+alamat: Bandung
+produk: produk
+jumlah: 1
+
+name: zidan
+email:zid4nsyhid@gmail
+alamat: Bandung
+produk: produk
+jumlah: 1
+
+name: zidan
+email:zid4nsyhid@gmail
+alamat: Bandung
+produk: produk
+jumlah: 1
+
+name: zidan
+email:as@gmail.com
+alamat: Bandung
+produk: produk
+jumlah: 2
+
+name: zidan
+email:as@gmail.com
+alamat: Bandung
+produk: produk
+jumlah: 2
+
+name: zidan
+email:as@gmail.com
+alamat: Bandung
+produk: produk
+jumlah: 2
+
+name: zidan
+email:as@gmail.co
+alamat: Bandung
+produk: produk
+jumlah: -1
+
+name: zidan 
+email:zid4nsyhid@gmail.com
+alamat: Bandung
+produk: produk
+jumlah: 2
+
